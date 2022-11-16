@@ -46,7 +46,7 @@
   },
   "peerDependencies": {
     "ra-core": "^4.1.5",
-    "react": "^18.1.0"
+    "react": "^17.0.0 || ^18.1.0"
   },
   "dependencies": {
     "lodash.get": "^4.4.2",
